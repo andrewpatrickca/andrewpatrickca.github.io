@@ -5,7 +5,7 @@ https://andrewpatrickca.github.io/PETs-Framework/
 ## Notes
 PETs (Privacy Enhancing Technologies) Framework is designed to help people find PETs tools and resources. The framework provides links to useful PETs in variety of categories, including messaging, email, browser tools, etc.
 
-PETs Framework is based on the OSINT Framework developed by Justin Nordine (<a href="https://osintframework.com">http://osintframework.com/</a>).
+PETs Framework is based on the OSINT Framework developed by Justin Nordine (<a href="http://osintframework.com">http://osintframework.com/</a>).
   
 This framework is open source and contributions are welcome.
 
