@@ -17,6 +17,7 @@ The framework is made up of simple web source files (html, css, js, json). Simpl
 Watch or star the project on Github: https://github.com/andrewpatrickca/andrewpatrickca.github.io
 
 ### Suggestions, Comments, Feedback
-Feedback or new tool suggestions are extremely welcome.  Please feel free to submit a pull request or open an issue on github.
+Feedback or new tool suggestions are extremely welcome.  Please feel free to submit a pull request or open an issue on github:  <a href="https://github.com/andrewpatrickca/andrewpatrickca.github.io">
+https://github.com/andrewpatrickca/andrewpatrickca.github.io</a>
 
 
