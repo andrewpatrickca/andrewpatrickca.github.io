@@ -16,6 +16,11 @@
               "url":"https://whispersystems.org/"
             },
             {
+              "name":"Wickr",
+              "type":"url",
+              "url":"https://www.wickr.com/"
+            },
+            {
               "name":"Cryptocat",
               "type":"url",
               "url":"https://crypto.cat/"
